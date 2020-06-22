@@ -26,7 +26,7 @@
 
 ### M.　『Model』
 * Model created
-* 3 epochs, accuracy of 96%
+* 30 epochs, accuracy of 93%
 
 
 
