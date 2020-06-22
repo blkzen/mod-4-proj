@@ -38,4 +38,4 @@
 
 
 ### Conclusion
-We formatted thousands of x-rays of patients with and without pneumonia. After doing so, we created a model that processes these images, creates convulsions when reading the images, and gave us an accuracy of 96% at its highest.
+We formatted thousands of x-rays of patients with and without pneumonia. After doing so, we created a model that processes these images, creates convulsions when reading the images, and gave us an accuracy of 93% at its highest.
